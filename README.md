@@ -80,4 +80,4 @@ Implemente uma página de perfil do usuário.
 Adicionar funcionalidades de logout e redefinição de senha.
 Crie registros de atividades para rastrear o uso das funcionalidades.
 
-![image](https://github.com/user-attachments/assets/423f9904-b985-4056-94da-f60447e31549)
+
