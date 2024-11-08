@@ -1,5 +1,5 @@
 # Projeto-ALFA-
-Este é um projeto dedicado a matéria de Mobile.
+Este é um projeto dedicado a matéria de Mobile e Programação Web II
 
 1. Configuração de Desenvolvimento Documentado Ferramentas e Tecnologias
 Frontend : HTML, CSS, JavaScript
