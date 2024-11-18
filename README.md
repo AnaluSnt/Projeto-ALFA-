@@ -34,12 +34,13 @@ Executar o Frontend :
 Abra o arquivo index.htmlno navegador ou configure um servidor local de desenvolvimento para hospedar o frontend.
 
 2. Definir Cronograma de Versões em 5 Sprints
-Sprint 1 (Semana 1) : Configuração Inicial e Login
+Sprint 1 (Semana 1) : 
 Implementar a estrutura básica do projeto e arquivos principais.
-Implemente a tela de login e funcionalidade de autenticação com envio de dados ao backend.
 Configurar o localStoragearmazenamento do tipo de usuário.
 
-Sprint 2 (Semana 2) : Dashboard e Controle de Permissões
+Sprint 2 (Semana 2) :
+Tela inicial, 
+Dashboard e Controle de Permissões
 Desenvolver uma interface do dashboard e uma lógica de exibição de opções com base no tipo de usuário.
 Integrar a verificação localStorageao carregar o dashboard.
 
@@ -80,4 +81,39 @@ Implemente uma página de perfil do usuário.
 Adicionar funcionalidades de logout e redefinição de senha.
 Crie registros de atividades para rastrear o uso das funcionalidades.
 
+SPRING 02 
+Tela inicial, com telas seguintes
+Dashboard e Controle de Permissões
+Desenvolver uma interface do dashboard e uma lógica de exibição de opções com base no tipo de usuário.
+Integrar a verificação localStorageao carregar o dashboard.
+
+TELA INICIAL 
+No inicio temos a tela de login que te leva a um login como professor tem acessor a resevas e pedido de algum equipamento, o login do funcionario permite ele editar e adicionar equipamentos,
+os relatorios que aparecemn sao os dias e os equipamentos solicitados.
+
+![login](https://github.com/user-attachments/assets/4a047ba6-7f2f-4f37-91b4-f40753f64251)
+
+INICIAL
+
+![image](https://github.com/user-attachments/assets/67236a8a-b409-4b44-906a-9f0794008590)
+
+RESERVA 
+
+![image](https://github.com/user-attachments/assets/1a65d1aa-13ca-47c5-ade8-de9c7d3b6a9b)
+
+BANCO DE DADOS DA RESERVA
+
+![image](https://github.com/user-attachments/assets/4a615f4e-ab57-470e-976d-a113e522223c)
+
+CADASTRO DE EQUIPAMENTOS 
+
+![image](https://github.com/user-attachments/assets/a27a8e9b-8bb8-4953-a8b5-a09ec1f407aa)
+
+BANCO DE DADOS EQUIPAMENTOS 
+
+![image](https://github.com/user-attachments/assets/291daea6-fb32-48b3-bf0d-114f4dd8611c)
+
+RELATÓRIOS
+
+![image](https://github.com/user-attachments/assets/b5b0569a-18f6-4ab6-8a75-eeaa9c0a58d2)
 
